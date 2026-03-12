@@ -12,7 +12,7 @@ Transitando da área da saúde para a tecnologia, focada em Python, Linux e na c
 
 ### 📚 Sobre mim
 - 💡Atualmente focada em **Python** e **Linux**.
-- ✍️ Autora do livro de ficção científica **Novo Mundo**.
+- ✍️ Autora do livro de ficção científica **New World**, com o pseudônimo Jéssica Cavalcante
 - 🏥 Técnica em enfermagem.
   
 
@@ -34,3 +34,10 @@ Transitando da área da saúde para a tecnologia, focada em Python, Linux e na c
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="mailto:jessica.reboucas1209@gmail.com">
+
+  ### Minha obra 
+  
+  <a href="https://www.wattpad.com/user/Jessica-Cavalcante" target="_blank">
+  <img src="https://img.shields.io/badge/Wattpad-FF6122?style=for-the-badge&logo=wattpad&logoColor=white" alt="Wattpad">
+</a>
+
