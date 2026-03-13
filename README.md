@@ -12,7 +12,6 @@ Transitando da área da saúde para a tecnologia, focada em Python, Linux e na c
 
 ### 📚 Sobre mim
 - 💡Atualmente focada em **Python** e **Linux**.
-- ✍️ Autora do livro de ficção científica **New World**, com o pseudônimo Jéssica Cavalcante
 - 🏥 Técnica em enfermagem.
   
 
