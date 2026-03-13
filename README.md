@@ -35,9 +35,3 @@ Transitando da área da saúde para a tecnologia, focada em Python, Linux e na c
   </a>
   <a href="mailto:jessica.reboucas1209@gmail.com">
 
-  ### Minha obra 
-  
-  <a href="https://www.wattpad.com/user/Jessica-Cavalcante" target="_blank">
-  <img src="https://img.shields.io/badge/Wattpad-FF6122?style=for-the-badge&logo=wattpad&logoColor=white" alt="Wattpad">
-</a>
-
