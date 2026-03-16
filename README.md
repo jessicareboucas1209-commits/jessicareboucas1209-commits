@@ -1,7 +1,7 @@
 # Olá, eu sou a Jéssica! 👋
 
 ### Técnica de Enfermagem e Estudante Desenvolvimento de Sistemas (DS)
-Transitando da área da saúde para a tecnologia, focada em Python, Linux e na criação de narrativas envolventes.
+Transitando da área da saúde para a tecnologia, focada em Python, Linux e aperfeiçoamento.
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessicareboucas1209-commits&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
