@@ -1,6 +1,6 @@
 # Olá, eu sou a Jéssica! 👋
 
-### Escritora e Estudante Desenvolvimento de Sistemas (DS)
+### Técnica de Enfermagem e Estudante Desenvolvimento de Sistemas (DS)
 Transitando da área da saúde para a tecnologia, focada em Python, Linux e na criação de narrativas envolventes.
 
 <div align="center">
