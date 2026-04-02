@@ -1,9 +1,9 @@
-# Olá, eu sou a Jéssica! 👋
+# Olá, eu sou a Jéssica Rebouças! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
 ### Técnica de Enfermagem e Estudante Desenvolvimento de Sistemas (DS)
 Transitando da área da saúde para a tecnologia, focada em Python, Java, Linux e aperfeiçoamento.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Focada+em+Python+e+Linux...;Iniciando+estudos+em+Java!;Do+Cuidado+para+o+Código+👩‍💻)](https://git.io/typing-svg)
 
 ---
 
