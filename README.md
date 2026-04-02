@@ -11,13 +11,15 @@ Transitando da área da saúde para a tecnologia, focada em Python, Linux e aper
 ---
 
 ### 📚 Sobre mim
-- 💡Atualmente focada em **Python** e **Linux**.
+- 💡Atualmente focada em **Python** , **Java** e **Linux**.
 - 🏥 Técnica em enfermagem.
   
 
 ### 🛠 Ferramentas
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 
 ### 📱 Onde me encontrar
